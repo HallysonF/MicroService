@@ -1,6 +1,6 @@
-# Projeto Micro Serviços
+# Projeto Microsserviços
 
-Repositório da  API Micro Serviços para cadastro e compra de produtos. Utilizaremos Java, Spring Boot, Hibernate Envers e lombok.Desenvolvimento no bootcamp Santander Fullstack.
+Repositório da  API Microsserviços para cadastro e compra de produtos. Utilizaremos Java, Spring Boot, Hibernate Envers e lombok.Desenvolvimento no bootcamp Santander Fullstack.
 
 O desafio consiste em desenvolver um projeto com uma  arquitetura de software baseada em microsserviços. 
 
@@ -13,7 +13,7 @@ $ git clone https://github.com/HallysonF/MicroService.git
 $ cd MicroService
 ```
 
-### Desenvolvimento da API- MICRO SERVIÇOS
+### Desenvolvimento da API- MICROSSERVIÇOS
 
 Para o desenvolvimento da API foi utilizado Java, Spring Boot, Hibernate Envers,Lombok, shop-Cart e Service Discovery.
 

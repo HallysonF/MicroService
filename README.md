@@ -10,7 +10,7 @@ Faça o clone do projeto:
 
 ```bash
 $ git clone https://github.com/HallysonF/MicroService.git
-$ cd MicroServicos
+$ cd MicroService
 ```
 
 ### Desenvolvimento da API- MICRO SERVIÇOS
